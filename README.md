@@ -1,2 +1,3 @@
 # Hello-World
-First responsory
+First Responsory
+I am an aspiring front-end developer
